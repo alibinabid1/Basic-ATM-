@@ -1,0 +1,26 @@
+Cash deposited: Rs 400000 | New balance: Rs 402000
+Cash withdrawn: Rs 250000 | Remaining balance: Rs 152000
+User exited the ATM.
+Cash deposited: Rs 600000 | New balance: Rs 602000
+Cash withdrawn: Rs 500000 | Remaining balance: Rs 102000
+User exited the ATM.
+Balance checked: Rs 5000
+User exited the ATM.
+Cash deposited: Rs 50000 | New balance: Rs 55000
+Cash withdrawn: Rs 5000 | Remaining balance: Rs 50000
+User exited the ATM.
+Balance checked: Rs 50000
+Cash deposited: Rs 12000 | New balance: Rs 62000
+User exited the ATM.
+Balance checked: Rs 62000
+User exited the ATM.
+Balance checked: Rs 62000
+Cash deposited: Rs 70000 | New balance: Rs 132000
+User exited the ATM.
+User exited the ATM.
+Cash deposited: Rs 50000 | New balance: Rs 182000
+User exited the ATM.
+Balance checked: Rs 182000
+User exited the ATM.
+User exited the ATM.
+User exited the ATM.
